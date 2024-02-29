@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: aqua;
+    text-align: center;
+}
+
+.header {
+    color: gray;
+    text-align: center;
+}
+
+#baseboll {
+    color: blue;
+}
